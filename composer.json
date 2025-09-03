@@ -1,5 +1,5 @@
 {
-    "name": "beowulfenator/yii2-json-editor",
+    "name": "taprecruit/yii2-json-editor",
     "description": "Yii2 wrapper for jdorn/json-editor",
     "keywords": [
         "yii2",
@@ -8,7 +8,7 @@
     ],
     "type": "yii2-extension",
     "license": "BSD-2-Clause",
-    "homepage": "https://github.com/beowulfenator/yii2-json-editor",
+    "homepage": "https://github.com/taprecruit/yii2-json-editor",
     "authors": [
         {
             "name": "Konstantin Sirotkin",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "beowulfenator\\JsonEditor\\": "src"
+            "taprecruit\\JsonEditor\\": "src"
         }
     },
     "extra": {
